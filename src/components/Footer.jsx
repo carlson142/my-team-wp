@@ -117,7 +117,7 @@ const Footer = () => {
         </LogoCont>
 
         <List>
-          <Item to="/">home</Item>
+          <Item to="/my-team-wp">home</Item>
           <Item to="/about">about</Item>
         </List>
 

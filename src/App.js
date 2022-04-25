@@ -24,7 +24,7 @@ const App = () => {
       <Header />
       <AnimatePresence exitBeforeEnter>
         <Routes key={location.pathname} location={location}>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/my-team-wp" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
         </Routes>

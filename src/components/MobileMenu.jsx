@@ -97,7 +97,7 @@ const MobileMenu = ({ setMenu }) => {
 
         <MenuList>
           <MenuItem
-            to="/"
+            to="/my-team-wp"
             onClick={() => {
               setMenu((prev) => !prev);
             }}
