@@ -1,0 +1,16 @@
+.backSocials {
+  height: 3rem;
+  width: 3rem;
+
+  cursor: pointer;
+
+  transition: var(--tr);
+
+  &:not(:last-child) {
+    margin-right: 1rem;
+  }
+
+  &:hover {
+    color: var(--color-red);
+  }
+}

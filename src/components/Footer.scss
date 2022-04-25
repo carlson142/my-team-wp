@@ -1,0 +1,11 @@
+.socials {
+  height: 25px;
+  width: 25px;
+
+  cursor: pointer;
+  transition: var(--tr);
+
+  &:hover {
+    color: var(--color-red);
+  }
+}
