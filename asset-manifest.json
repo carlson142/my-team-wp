@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-team-wp/static/css/main.9b911250.css",
-    "main.js": "/my-team-wp/static/js/main.4a0e6f09.js",
+    "main.js": "/my-team-wp/static/js/main.2360c662.js",
     "static/media/avatar-kady.jpg": "/my-team-wp/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
     "static/media/avatar-drake.jpg": "/my-team-wp/static/media/avatar-drake.737832017d812c5c01a9.jpg",
     "static/media/avatar-arthur.jpg": "/my-team-wp/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
@@ -27,10 +27,10 @@
     "static/media/bg-pattern-about-1-mobile-nav-1.svg": "/my-team-wp/static/media/bg-pattern-about-1-mobile-nav-1.b09936d7157850a9c759a89d1991ea1a.svg",
     "static/media/bg-pattern-home-4-about-3.svg": "/my-team-wp/static/media/bg-pattern-home-4-about-3.aacd4e03b04df33749baa362f4612832.svg",
     "main.9b911250.css.map": "/my-team-wp/static/css/main.9b911250.css.map",
-    "main.4a0e6f09.js.map": "/my-team-wp/static/js/main.4a0e6f09.js.map"
+    "main.2360c662.js.map": "/my-team-wp/static/js/main.2360c662.js.map"
   },
   "entrypoints": [
     "static/css/main.9b911250.css",
-    "static/js/main.4a0e6f09.js"
+    "static/js/main.2360c662.js"
   ]
 }
