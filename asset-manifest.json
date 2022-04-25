@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-team-wp/static/css/main.9b911250.css",
+    "main.js": "/my-team-wp/static/js/main.4a0e6f09.js",
+    "static/media/avatar-kady.jpg": "/my-team-wp/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
+    "static/media/avatar-drake.jpg": "/my-team-wp/static/media/avatar-drake.737832017d812c5c01a9.jpg",
+    "static/media/avatar-arthur.jpg": "/my-team-wp/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/avatar-aiysha.jpg": "/my-team-wp/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
+    "static/media/avatar-aden.jpg": "/my-team-wp/static/media/avatar-aden.8db4d601114c58c31a6e.jpg",
+    "static/media/avatar-nikita.jpg": "/my-team-wp/static/media/avatar-nikita.81886969b7b695a125fd.jpg",
+    "static/media/avatar-griffin.jpg": "/my-team-wp/static/media/avatar-griffin.befbf0336c8bf00c29bb.jpg",
+    "static/media/avatar-cruz.jpg": "/my-team-wp/static/media/avatar-cruz.81cd3556a3746ac5366d.jpg",
+    "static/media/icon-person.svg": "/my-team-wp/static/media/icon-person.0a313a85e4148d7ea17f5657dbbffa33.svg",
+    "static/media/icon-cog.svg": "/my-team-wp/static/media/icon-cog.c5d2403fc5d7754badaf2da8c88d8b35.svg",
+    "static/media/logo.svg": "/my-team-wp/static/media/logo.9e687f65b84bdaad178f8a42a249e298.svg",
+    "static/media/icon-chart.svg": "/my-team-wp/static/media/icon-chart.8de3d4d2ce95686ba9409a82599a8de1.svg",
+    "static/media/bg-pattern-about-2-contact-1.svg": "/my-team-wp/static/media/bg-pattern-about-2-contact-1.6c9288fe91af9b87ae81ffff5bd11968.svg",
+    "static/media/bg-pattern-home-6-about-5.svg": "/my-team-wp/static/media/bg-pattern-home-6-about-5.d6ab17f29ebdab5d4bc7f1960db202e8.svg",
+    "static/media/bg-pattern-home-3.svg": "/my-team-wp/static/media/bg-pattern-home-3.4bc172f902aa8a5308451cd91cce9f8a.svg",
+    "static/media/bg-pattern-about-4.svg": "/my-team-wp/static/media/bg-pattern-about-4.0f506dfdc3879b6d0d902e22e55cfbc2.svg",
+    "static/media/bg-pattern-home-1.svg": "/my-team-wp/static/media/bg-pattern-home-1.270440fb92b9ec53fe01270f9dd849bb.svg",
+    "static/media/icon-quotes.svg": "/my-team-wp/static/media/icon-quotes.c51739212c310345577396beac77ec6a.svg",
+    "static/media/bg-pattern-home-2.svg": "/my-team-wp/static/media/bg-pattern-home-2.889d5d8c448ed043a71bd7e91e884388.svg",
+    "index.html": "/my-team-wp/index.html",
+    "static/media/bg-pattern-contact-2.svg": "/my-team-wp/static/media/bg-pattern-contact-2.df1e1277c5687d3bd55537b8d3a7ca83.svg",
+    "static/media/bg-pattern-home-5.svg": "/my-team-wp/static/media/bg-pattern-home-5.95a2a6211526850cef5564daa5a17630.svg",
+    "static/media/bg-pattern-about-1-mobile-nav-1.svg": "/my-team-wp/static/media/bg-pattern-about-1-mobile-nav-1.b09936d7157850a9c759a89d1991ea1a.svg",
+    "static/media/bg-pattern-home-4-about-3.svg": "/my-team-wp/static/media/bg-pattern-home-4-about-3.aacd4e03b04df33749baa362f4612832.svg",
+    "main.9b911250.css.map": "/my-team-wp/static/css/main.9b911250.css.map",
+    "main.4a0e6f09.js.map": "/my-team-wp/static/js/main.4a0e6f09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b911250.css",
+    "static/js/main.4a0e6f09.js"
+  ]
+}
